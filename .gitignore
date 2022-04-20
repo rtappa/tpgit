@@ -1,0 +1,4 @@
+# Fichier .gitignore test du TP cours
+# Ces fichiers seront ignorés lors du "git push ou git commit" et ne seront pas envoyé au repo
+
+
